@@ -1,0 +1,6 @@
+{
+  "target_url": "https://www.secpulse.com/",
+  "priority": 4,
+  "require_login": false,
+  "custom_re": false
+}

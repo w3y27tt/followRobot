@@ -1,0 +1,6 @@
+{
+  "target_url": "http://www.freebuf.com/",
+  "priority": 5,
+  "require_login": false,
+  "custom_re": false
+}
